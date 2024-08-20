@@ -105,3 +105,9 @@
 2024-08-15T11:04:03.336Z GET /logo192.png ::1 New Request Received
 2024-08-15T11:04:10.503Z GET /static/media/blackLogo.cf4b1595f0a6f8e7da68.png ::1 New Request Received
 2024-08-15T11:04:23.053Z POST /contact ::1 New Request Received
+2024-08-20T17:44:37.600Z GET / ::1 New Request Received
+2024-08-20T17:44:41.913Z GET /api/users/1000 ::1 New Request Received
+2024-08-20T17:44:50.428Z GET / ::1 New Request Received
+2024-08-20T17:44:59.448Z GET /test ::1 New Request Received
+2024-08-20T17:44:59.523Z GET /favicon.ico ::1 New Request Received
+2024-08-20T17:45:04.000Z GET / ::1 New Request Received
